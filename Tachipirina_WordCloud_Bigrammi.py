@@ -7,7 +7,7 @@
     "tags": []
    },
    "source": [
-    "# Scirpt per estrarre il testo dal bugiardino PDF della Tachipirina"
+    "# Script per estrarre il testo dal bugiardino PDF della Tachipirina"
    ]
   },
   {
